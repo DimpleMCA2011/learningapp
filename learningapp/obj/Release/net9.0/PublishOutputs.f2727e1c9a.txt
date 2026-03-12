@@ -1,0 +1,7 @@
+C:\AZ204\Temp2\learningapp\bin\Publish\learningapp.exe
+C:\AZ204\Temp2\learningapp\bin\Publish\appsettings.Development.json
+C:\AZ204\Temp2\learningapp\bin\Publish\appsettings.json
+C:\AZ204\Temp2\learningapp\bin\Publish\learningapp.dll
+C:\AZ204\Temp2\learningapp\bin\Publish\learningapp.deps.json
+C:\AZ204\Temp2\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\AZ204\Temp2\learningapp\bin\Publish\learningapp.pdb
